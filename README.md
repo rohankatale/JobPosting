@@ -12,8 +12,7 @@ A web application for job posting where employers can post job opportunities and
   - [Running the Application](#running-the-application)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Features
 
